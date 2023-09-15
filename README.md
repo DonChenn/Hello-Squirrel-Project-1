@@ -46,7 +46,7 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I had fun learning how to add/format strings and images!
 
 ## License
 
